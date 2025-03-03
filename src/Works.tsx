@@ -18,8 +18,8 @@ export const Works = () => {
                 <div className="space-page-top"></div>
                 <div className="w-layout-blockcontainer container w-container">
                     <div className="title-flex">
-                        <h1 data-w-id="5160fc72-0309-958a-1d5a-f68bed0cd2c9" style={{opacity: "0"}}>Works</h1>
-                        <h5 data-w-id="cd887da8-8603-0243-dc11-c5bb2ebc0096" style={{opacity: "0"}} className="max-width-20rem">I offer innovative solutions that captivate customers, drive engagement and get results.</h5>
+                        <h1 data-w-id="5160fc72-0309-958a-1d5a-f68bed0cd2c9" style={{opacity: 1}}>Works</h1>
+                        <h5 data-w-id="cd887da8-8603-0243-dc11-c5bb2ebc0096" style={{opacity: 1}} className="max-width-20rem">I offer innovative solutions that captivate customers, drive engagement and get results.</h5>
                     </div>
                 </div>
             </section>
