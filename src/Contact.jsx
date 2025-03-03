@@ -18,8 +18,8 @@ export const Contact = () => {
     <div className="w-layout-blockcontainer container w-container">
       <div className="space-page-top"></div>
       <div className="title-flex">
-        <h1 data-w-id="2b428689-5a35-99ff-f397-e68c91393ae6" style={{opacity: "0"}}>Contact</h1>
-        <h5 data-w-id="2b428689-5a35-99ff-f397-e68c91393ae8" style={{opacity: "0"}} className="max-width-20rem">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h5>
+        <h1 data-w-id="2b428689-5a35-99ff-f397-e68c91393ae6" style={{opacity: 1}}>Contact</h1>
+        <h5 data-w-id="2b428689-5a35-99ff-f397-e68c91393ae8" style={{opacity: 1}} className="max-width-20rem">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h5>
       </div>
       <div className="space-4rem"></div>
     </div>
